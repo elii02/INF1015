@@ -1,3 +1,10 @@
+/*
+Equipe 2_11
+Elisabeth Kerr-Jarrold MATRICULE
+Selma Chau Saadali 2369327 
+*/
+
+
 #include <iostream>
 #include <string>
 #include <cmath>

@@ -99,7 +99,7 @@ void exercice6() {
 	cout << "entrer le nom du fichier: ";
 	cin >> nomFichier;
 
-	ifstream fichier(string("src/")+nomFichier);
+	ifstream fichier(nomFichier);
 	if (!fichier) {
 		cerr << "Erreur : Impossible d'ouvrir le fichier." << endl;
 	}
